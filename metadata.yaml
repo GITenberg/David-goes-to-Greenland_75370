@@ -16,6 +16,9 @@ contributor:
     agent_name: Kakutia
     gutenberg_agent_id: '57969'
     url: http://www.gutenberg.org/2009/agents/57969
+covers:
+- cover_type: archival
+  image_path: 75370-h/images/frontcover.jpg
 creator:
   author:
     agent_name: Putnam, David Binney
@@ -24,6 +27,8 @@ creator:
     gutenberg_agent_id: '57542'
     url: http://www.gutenberg.org/2009/agents/57542
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/75370#David-goes-to-Greenland
 gutenberg_issued: '2025-02-13'
 gutenberg_type: Text
 identifiers:
